@@ -1,4 +1,4 @@
-# vuex-demo
+# Vuex-demo
 
 ## Project setup
 ```
